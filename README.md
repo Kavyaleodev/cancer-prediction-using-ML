@@ -1,1 +1,1 @@
-# cancer-prediction-using-ML
+# lung-cancer-prediction-using-ML
